@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{05F44F45-8E66-4229-B874-07E034534CFB}|Default">
+  <MonoDevelop.Ide.ItemProperties.CheckPoint2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Category.cs">
+    <Files>
+      <File FileName="Category.cs" Line="34" Column="37" />
+      <File FileName="Product.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="42" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheckPoint2" expanded="True">
+            <Node name="CheckPoint2" expanded="True">
+              <Node name="Category.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

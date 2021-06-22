@@ -1,0 +1,15 @@
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.csproj.AssemblyReference.cache
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.AssemblyInfoInputs.cache
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.AssemblyInfo.cs
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.csproj.CoreCompileInputs.cache
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/bin/Debug/net5.0/CheckPoint2.deps.json
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/bin/Debug/net5.0/CheckPoint2.runtimeconfig.json
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/bin/Debug/net5.0/CheckPoint2.runtimeconfig.dev.json
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/bin/Debug/net5.0/CheckPoint2.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/bin/Debug/net5.0/ref/CheckPoint2.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/bin/Debug/net5.0/CheckPoint2.pdb
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/ref/CheckPoint2.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.pdb
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/CheckPoint2/CheckPoint2/obj/Debug/net5.0/CheckPoint2.genruntimeconfig.cache
